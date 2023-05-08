@@ -71,7 +71,6 @@ store.dispatch(buyMob());
 
 unsubscribe();
 
-// console.log(typeof([1, 2, 3]));
 
 // {
 //     var ali = "ali"
