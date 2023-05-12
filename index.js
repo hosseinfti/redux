@@ -72,10 +72,6 @@ store.dispatch(buyMob());
 unsubscribe();
 
 
-// {
-//     var ali = "ali"
-//     let mamad= "mamad"
-// }
 // function ali() {
 //     var hasan = "hasan"
 //     let vahid = "vahid"
